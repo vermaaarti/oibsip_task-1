@@ -1,0 +1,136 @@
+.part2{
+	background-color: rgb(24, 24, 26);
+}
+.firstpara{
+	font-weight: bolder;
+	font-size: 68px;
+}
+.img1{
+	width: 80%;
+	height: 80%;
+}
+.para2{
+	font-size: 20px;
+}
+.part3{
+	background-color: rgb(20, 21, 22);
+}
+.para3{
+	font-size: 20px;
+}
+hr{
+	width: 100px;
+	 height: 5px;
+	 color: rgb(30, 137, 236);
+}
+.para4{
+	font-size: 25px;
+}
+.col1{
+ background-image: linear-gradient(rgb(110, 34, 209), rgb(223, 45, 163));
+	}
+	.para5{
+	font-size: 20px;
+}
+.part4{
+	background-color: rgb(39, 37, 36);
+}
+.btn1{
+	background-color: rgb(139, 139, 145);
+}
+.img2{
+	height: 60%;
+	width: 60%;
+}
+.img3{
+height: 80px;
+width: 80px;
+}
+.img4{
+	height: 50%;
+	width: 15%;
+}
+/* .div2{
+ background-image: linear-gradient(to right, rgb(199, 35, 57) 20%, rgb(56, 231, 50));
+} */
+.part5{
+background-color: rgb(207, 236, 41);	
+}
+
+.rightdiv{
+	/*	height: 96%;
+		width: 50%;*/
+		/*background-size: contain;
+		position: ;*/
+ background-image: linear-gradient(to right, rgb(209, 34, 157) 20%, rgb(66, 38, 189));
+}
+.img5{
+        height: 100%;
+		width: 70%;	
+}
+.para7{
+font-weight: bolder;
+}
+.para8{
+	font-size: 22px;
+}
+.part6{
+background-color: rgb(58, 56, 54);
+}
+.parentdiv{
+	box-shadow: 2px 2px 3px rgb(43, 38, 38);
+}
+.imgtable{
+	height: 100%;
+	width: 100%;
+}
+.part8{
+	background-color: rgb(177, 206, 47);
+}
+.part9{
+	background-color: rgb(20, 19, 22);
+}
+
+
+@media screen and (max-width: 480px){
+.firstpara{
+	font-weight: bolder;
+	font-size: 28px;
+}
+.para7{
+font-size: 25px;
+}
+.para8{
+	font-size: 15px;
+}
+
+
+
+}
+@media screen and (max-width: 768px){
+.colgradient{
+ background-image: linear-gradient(to right, rgb(30, 31, 27) 20%, rgb(98, 104, 97));
+ margin: auto;
+}
+.fixbg{
+	background-color: rgb(224, 57, 174);
+	}
+}
+.box6{
+	background-color: bisque;
+}
+.box5{
+	background-color: bisque;
+}
+.box4{
+	background-color: bisque;
+}
+.box3{
+	background-color: bisque;
+}
+.box2{
+	background-color: bisque;
+}
+.box1{
+	background-color: bisque;
+}
